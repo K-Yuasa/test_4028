@@ -6,6 +6,7 @@ void setup() {
   // put your setup code here, to run once:
   servo1.attach(6);
   servo2.attach(7);
+  servo3.attach(8);
 }
 
 void loop() {
