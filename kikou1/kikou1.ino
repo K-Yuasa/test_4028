@@ -1,5 +1,7 @@
 //kikou1
 
+Servo servoL,servoR;
+
 void setup() {
   // put your setup code here, to run once:
 
