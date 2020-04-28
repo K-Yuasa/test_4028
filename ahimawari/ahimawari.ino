@@ -4,7 +4,7 @@ Servo servo1,servo2,servo3,servo4;
 
 void setup() {
   // put your setup code here, to run once:
-
+  serrvo1.attach(6);
 }
 
 void loop() {
